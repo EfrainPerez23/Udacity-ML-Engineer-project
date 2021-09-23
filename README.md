@@ -23,7 +23,7 @@ Template code is provided in the `Capstone_Final_Project.ipynb` notebook file. Y
 
 ### Run
 
-In a terminal or command window, navigate to the top-level project directory `boston_housing/` (that contains this README) and run one of the following commands:
+In a terminal or command window, in the root project run:
 
 ```bash
 ipython notebook Capstone_Final_Project.ipynb
@@ -41,7 +41,7 @@ This will open the Jupyter Notebook software and project file in your browser.
 
 ### Data
 
-The modified Boston housing dataset consists of 768 data points, with each datapoint having 9 features. You can get this dataset from [kaggle](https://www.kaggle.com/uciml/pima-indians-diabetes-database).
+The diabetes dataset consists of 768 data points, with each datapoint having 9 features. You can get this dataset from [kaggle](https://www.kaggle.com/uciml/pima-indians-diabetes-database).
 
 **Features**
 1. **`Pregnancies`**: Number of times pregnant
