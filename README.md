@@ -45,7 +45,8 @@ The modified Boston housing dataset consists of 768 data points, with each datap
 
 **Features**
 1. **`Pregnancies`**: Number of times pregnant
-2. **`Glucose`**: Plasma glucose concentration 2 hours in anoral glucose tolerance test.3. `BloodPressure`: Diastolic blood pressure (mm Hg)
+2. **`Glucose`**: Plasma glucose concentration 2 hours in anoral glucose tolerance test.
+3. **`BloodPressure`**: Diastolic blood pressure (mm Hg)
 4. **`SkinThickness`**: Triceps skin fold thickness (mm)
 5. **`Insulin`**: 2-Hour serum insulin (mu U/ml)
 6. **`BMI`**: Body mass index (weight in kg/(height in m)^2)
@@ -54,4 +55,5 @@ The modified Boston housing dataset consists of 768 data points, with each datap
 
 
 **Target Variable**
+
 9. **`Outcome`**: Is diabetic person or not
