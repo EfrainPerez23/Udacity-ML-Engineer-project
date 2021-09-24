@@ -23,6 +23,8 @@ Template code is provided in the `Capstone_Final_Project.ipynb` notebook file. Y
 
 ### Run
 
+Use jupyter notebook kernel `conda_tensorflow2_p36`
+
 In a terminal or command window, in the root project run:
 
 ```bash
